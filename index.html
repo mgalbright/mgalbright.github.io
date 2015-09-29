@@ -33,6 +33,8 @@
 <p>Have you ever looked for jobs on <a href="https://www.usajobs.gov">usajobs.gov</a>?  If you have, you may have noticed that the page is hard to read on mobile devices.  Also, not all job results are relevant--for example, searching for <em>mathematician</em> often returns jobs like <em>waiter</em> or <em>bartender</em>.  </p>
 
 <p>Hence, I made a web app for searching for US federal government jobs.  It is cross platform and mobile friendly, and it uses machine learning to sort jobs from most to least interesting. You can try it <a href="http://mgalbright.github.io/usajobtool/">here</a> or check out the <a href="https://github.com/mgalbright/usajobtool">code</a>.</p>
+
+<p><strong>Warning</strong>: <a href="https://data.usajobs.gov/">usajobs.gov</a> will update their REST API to version 5.2 in October, 2015.  At that time, this application will cease functioning.  Unfortunately, API v5.2 effectively blocks JavaScript-based applications like this one:  first, the new API requires changing the User-Agent in the HTTP header, but web browsers explicitly prevent AJAX from changing the User-Agent for security reasons.  Second, v5.2 does not appear to support cross-origin resource sharing.  I am investigating the feasibility of converting this web app into a Chrome extension to bypass the security restrictions. </p>
       </section>
     </div>
 
