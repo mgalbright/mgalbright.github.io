@@ -14,7 +14,7 @@ machine learning to learn your preferences and show you the most interesting
 jobs first.
 You can check out the git repository [here](https://github.com/mgalbright/usajobtool).   
 
-You can try try the app online [here](https://developer.usajobs.gov/).  
+You can try try the app online [here](https://usajobtool.herokuapp.com/).  
 (Note: it's hosted on a free heroku account, so the page could be sluggish.)
 
 <!--![Usajobs Search Tool](images/usajobtool.png)-->
