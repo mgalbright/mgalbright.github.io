@@ -5,7 +5,7 @@ Here are a few projects from my [github page](https://github.com/mgalbright):
 
 ## Usajobs Search Tool
 
-Have you ever looked for US government jobs on [usajobs.gov](https://www.usajobs.gov)?  If you have, you may have noticed that some search results are not very relevant--for example, searching for _mathematician_ often returns jobs like _waiter_ or _bartender_ (who need _math_ skills).  Similarly, searches for _spark_ (the data science tool) often returns _auto mechanics_ (who change spark plugs).  
+Have you ever looked for US government jobs on [usajobs.gov](https://www.usajobs.gov)?  If you have, you may have noticed that some search results are not very relevant--for example, searching for _mathematician_ often returns jobs like _waiter_ or _bartender_ (who need _math_ skills).  Similarly, searches for _spark_ (the data science tool) often returns _auto mechanics_ (who change _spark_ plugs).  
 
 To improve user experience, I made a web app to search usajobs.gov and 
 customize search results based upon user interest.
