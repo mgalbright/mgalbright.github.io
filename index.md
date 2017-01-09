@@ -24,7 +24,8 @@ You can also try the app online [here](https://usajobtool.herokuapp.com/).
 ## Bokeh Examples
 
 I have made a few easily-modified Bokeh examples which are useful 
-for quickly building and deploying interactive Bokeh websites in python. 
+for quickly building and deploying interactive Bokeh websites in python 
+(similar to Shiny in R). 
 Check out the git repo [here](https://github.com/mgalbright/Bokeh-examples).
 
 <!--![Bokeh example: economic data viewer](images/bokeh-econdata.png)-->
