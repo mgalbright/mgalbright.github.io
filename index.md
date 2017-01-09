@@ -11,10 +11,9 @@ To improve user experience, I made a web app to search usajobs.gov and
 customize search results based upon user interest.
 The app is cross platform and mobile friendly, and it uses 
 machine learning to learn your preferences and show you the most interesting 
-jobs first.
-You can check out the git repository [here](https://github.com/mgalbright/usajobtool).   
+jobs first.  I have ported the app to three platforms: web, browser extension, and mobile app. You can check out the git repository with all three versions [here](https://github.com/mgalbright/usajobtool).   
 
-You can try try the app online [here](https://usajobtool.herokuapp.com/).  
+You can also try the app online [here](https://usajobtool.herokuapp.com/).  
 (Note: it's hosted on a free heroku account, so the page could be sluggish.)
 
 <!--![Usajobs Search Tool](images/usajobtool.png)-->
