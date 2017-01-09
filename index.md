@@ -18,7 +18,8 @@ You can try try the app online [here](https://developer.usajobs.gov/).
 (Note: it's hosted on a free heroku account, so the page could be sluggish.)
 
 <!--![Usajobs Search Tool](images/usajobtool.png)-->
- <img src="images/usajobtool.png" alt="Usajobs Search Tool" style="width: 500px;"/> 
+<!--Can customize the width using inline html-->
+<a href="https://github.com/mgalbright/usajobtool"><img src="images/usajobtool.png" alt="Usajobs Search Tool" style="width: 500px;"/><a>
 
 
 ## Bokeh Examples
@@ -28,4 +29,4 @@ for quickly building and deploying interactive Bokeh websites in python.
 Check out the git repo [here](https://github.com/mgalbright/Bokeh-examples).
 
 <!--![Bokeh example: economic data viewer](images/bokeh-econdata.png)-->
- <img src="images/bokeh-econdata.png" alt="Bokeh example: economic data viewer" style="width: 500px;"/> 
+ <a href="https://github.com/mgalbright/Bokeh-examples"><img src="images/bokeh-econdata.png" alt="Bokeh example: economic data viewer" style="width: 500px;"/></a>
